@@ -52,4 +52,6 @@ button {
     padding: 1rem 5rem;
     color: white;
     cursor: pointer;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
